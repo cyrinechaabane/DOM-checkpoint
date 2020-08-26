@@ -1,0 +1,46 @@
+.ttl{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1%;
+}
+.ttl span{
+color: white;
+}
+.ttl p{
+color: white;
+}
+.divv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.fas{
+    margin-right: 100px;
+}
+.diiv{
+    display: flex;
+  margin-left: 100px;
+}
+
+.minus-btn{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+.plus-btn{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+i{
+    margin-top: 200px;
+    height: 200px;
+}
+.a47{
+    background-color: rgba(252, 243, 228, 0.774);
+}
+.c47{
+    background-color: whitesmoke;
+}
